@@ -8,13 +8,17 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HW2" />
         <module name="HW1" />
+        <module name="PersonalNotes" />
         <module name="HW3" />
         <module name="HW6" />
         <module name="HW5" />
+        <module name="HW7" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="HW4" target="21" />
+      <module name="HW7_" target="21" />
+      <module name="HW8" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -23,6 +27,8 @@
       <module name="HW3" options="-parameters" />
       <module name="HW5" options="-parameters" />
       <module name="HW6" options="-parameters" />
+      <module name="HW7" options="-parameters" />
+      <module name="PersonalNotes" options="-parameters" />
     </option>
   </component>
 </project>
