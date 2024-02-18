@@ -13,12 +13,15 @@
         <module name="HW6" />
         <module name="HW5" />
         <module name="HW7" />
+        <module name="HW10" />
+        <module name="HW11" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="HW4" target="21" />
       <module name="HW7_" target="21" />
       <module name="HW8" target="21" />
+      <module name="HW9" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

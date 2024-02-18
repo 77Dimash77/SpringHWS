@@ -13,11 +13,15 @@
         <option value="$PROJECT_DIR$/HW7_/pom.xml" />
         <option value="$PROJECT_DIR$/HW7/pom.xml" />
         <option value="$PROJECT_DIR$/HW8/pom.xml" />
+        <option value="$PROJECT_DIR$/HW9/pom.xml" />
+        <option value="$PROJECT_DIR$/HW10/pom.xml" />
+        <option value="$PROJECT_DIR$/HW11/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/HW4/pom.xml" />
+        <option value="$PROJECT_DIR$/HW9/pom.xml" />
       </set>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
